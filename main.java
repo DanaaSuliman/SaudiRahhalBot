@@ -13,8 +13,8 @@ public class main {
 
             try {
                 telegramBotsApi.registerBot(new MyFirstBot());
-                //telegramBotsApi.registerBot(new MyFirstBot2());
-                //telegramBotsApi.registerBot(new MyFirstBot3());
+                telegramBotsApi.registerBot(new MyFirstBot2());
+                telegramBotsApi.registerBot(new MyFirstBot3());
 
             } catch (TelegramApiException e) {
                 e.printStackTrace();
