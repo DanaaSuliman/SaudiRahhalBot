@@ -1,2 +1,0 @@
-Main-Class: ArabicChatbot.main
-Class-Path: /Users/danasuliman/IdeaProjects/Final_RahhalBot/target/classes
